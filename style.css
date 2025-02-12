@@ -8,3 +8,7 @@ header ul{
     display: flex;
     justify-content: space-between;
 }
+
+header ul a{
+    text-decoration: none;
+}
