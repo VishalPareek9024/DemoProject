@@ -9,7 +9,8 @@ header ul{
     justify-content: space-between;
 }
 
-header ul a{
+
+header ul li a{
     text-decoration: none;
-    color:black;
 }
+
